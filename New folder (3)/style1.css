@@ -1,0 +1,16 @@
+div{
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    
+}
+.yllka{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: aliceblue;
+}
+.rritu:hover{
+transform: scale(1.2);
+}
+
